@@ -51,9 +51,9 @@ require (
 	github.com/tcnksm/go-gitconfig v0.1.2 // indirect
 	github.com/toqueteos/trie v1.0.0 // indirect
 	github.com/vmware-labs/yaml-jsonpath v0.3.2
-	golang.org/x/crypto v0.0.0-20210817164053-32db794688a5
-	golang.org/x/net v0.0.0-20211029224645-99673261e6eb
-	golang.org/x/text v0.3.7
+	golang.org/x/crypto v0.17.0
+	golang.org/x/net v0.10.0
+	golang.org/x/text v0.14.0
 	google.golang.org/grpc v1.43.0
 	google.golang.org/protobuf v1.27.1
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0
